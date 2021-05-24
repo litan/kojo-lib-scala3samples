@@ -3,7 +3,7 @@ Scala 3 API and sample programs for kojo-lib
 
 ## Quickstart
 - Clone [kojo-lib](https://github.com/litan/kojo-lib) and this repo.
-- Build kojo-lib.
+- Build kojo-lib as described in the [Quick Start](https://github.com/litan/kojo-lib#quick-start) section (in the kojo-lib repo).
 - Copy the `dist` directory (created by the above step) into the root folder of this project, and rename it to `lib`.
 - Start coding and running Kojo programs!
 
