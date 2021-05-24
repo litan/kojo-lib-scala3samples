@@ -10,3 +10,4 @@ Scala 3 API and sample programs for kojo-lib
 ## Sample programs
 - https://github.com/litan/kojo-lib-scala3samples/blob/main/src/main/scala/example/Main.scala
 - https://github.com/litan/kojo-lib-scala3samples/blob/main/src/main/scala/example/SquareSpiral.scala
+- https://github.com/litan/kojo-lib-scala3samples/blob/main/src/main/scala/example/TicTacToeUnbeatable.scala
