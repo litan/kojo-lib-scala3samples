@@ -1,3 +1,5 @@
+package example
+
 import api.Kojo
 
 @main def main =
