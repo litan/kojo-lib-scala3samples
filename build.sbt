@@ -10,3 +10,8 @@ lazy val root = project
 
     libraryDependencies += "com.novocode" % "junit-interface" % "0.11" % "test"
   )
+
+// To build a runnable package with bundled Java 11, run Metals with Java 11 and enable the following:
+// enablePlugins(JlinkPlugin)
+// jlinkIgnoreMissingDependency := JlinkIgnore.everything
+// jlinkModules += "jdk.unsupported"
