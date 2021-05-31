@@ -2,12 +2,12 @@
 Scala 3 API and sample programs for kojo-lib
 
 ## Quickstart
-- Clone [kojo-lib](https://github.com/litan/kojo-lib) and this repo.
-- Build kojo-lib as described in the [Quick Start](https://github.com/litan/kojo-lib#quick-start) section (in the kojo-lib repo).
-- Copy the `dist` directory (created by the above step) into the root folder of this project, and rename it to `lib`.
-- Start coding and running Kojo programs!
 
-Note - the above *manual* steps are needed till kojo-lib publishes its jar artifacts (soon).
+Do the following to get going:
+- `sbt run`
+- This will give you a list of examples that you can run. Select the one that you want to check out!
+
+Then take a look at the code for some of the samples (listed below)...
 
 ## Sample programs
 - https://github.com/litan/kojo-lib-scala3samples/blob/main/src/main/scala/example/Main.scala
