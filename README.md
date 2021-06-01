@@ -1,5 +1,5 @@
 # Kojo Lib samples for Scala3
-Scala 3 API and sample programs for kojo-lib
+Scala 3 API and sample programs for [kojo-lib](https://github.com/litan/kojo-lib)
 
 ## Quickstart
 
